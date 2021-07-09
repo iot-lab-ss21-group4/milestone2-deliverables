@@ -1,0 +1,3 @@
+[submodule "Group4_MS2/Code"]
+	path = Group4_MS2/Code
+	url = https://gitlab.lrz.de/iot-lab-ss21-group4/iot-lab-asgmt6.git
